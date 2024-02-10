@@ -1,5 +1,5 @@
 # Face-detection
-A simple well performing face detection ML project.
+A simple well performing face detection ML project using computer vision techniques.
 
 • DOMAIN: Entertainment
 • CONTEXT:A movie company owns a movie application and repository which caters movie streaming to millions of users who on subscription basis. 
